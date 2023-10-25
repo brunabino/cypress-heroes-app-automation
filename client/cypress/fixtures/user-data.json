@@ -1,0 +1,17 @@
+{
+    "userSuccessNormal": {
+        "username": "test@test.com",
+        "password": "test123"
+    },
+
+    "userSuccessAdmin": {
+        "username": "admin@test.com",
+        "password": "test123"
+    },
+
+    "userFailure": {
+        "username": "cypress@cypress.com",
+        "password": "cypress123"
+    }
+
+}
